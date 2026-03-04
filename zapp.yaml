@@ -1,0 +1,12 @@
+name: VIA-Project
+version: 1.0.0
+author: NINE-BRO
+
+propertyGroups:
+  - name: cobol-settings
+    language: cobol
+    libraries:
+      - name: syslib
+        type: local
+        locations:
+          - "COPY"

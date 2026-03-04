@@ -1,0 +1,24 @@
+﻿<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg" style="background-color: #050510;">
+  <line x1="0" y1="200" x2="800" y2="200" stroke="#444" stroke-dasharray="5,5" />
+  <text x="10" y="190" fill="#666" font-family="Arial" font-size="12">Plano GalÃ¡ctico (B=0)</text>
+  <text x="400" y="20" fill="white" font-family="Arial" font-size="16" text-anchor="middle">MAPA DE CANDIDATOS - PROYECTO VIA (COBOL)</text>  <circle cx='763.533333333333' cy='160.2' r='5' fill='red' opacity='0.8'>
+    <title>EnergÃ­a: 972 GeV | L: 343.59 B: 19.9</title>
+  </circle>
+  <text x='773.533333333333' y='160.2' fill='yellow' font-family='Arial' font-size='10'>972 GeV</text>
+  <circle cx='587.444444444445' cy='210.78' r='4' fill='red' opacity='0.8'>
+    <title>EnergÃ­a: 749.24 GeV | L: 264.35 B: -5.39</title>
+  </circle>
+  <text x='597.444444444445' y='210.78' fill='yellow' font-family='Arial' font-size='10'>749.24 GeV</text>
+  <circle cx='201.044444444444' cy='185.36' r='3' fill='red' opacity='0.8'>
+    <title>EnergÃ­a: 638.25 GeV | L: 90.47 B: 7.32</title>
+  </circle>
+  <text x='211.044444444444' y='185.36' fill='yellow' font-family='Arial' font-size='10'>638.25 GeV</text>
+  <circle cx='685.955555555556' cy='240.04' r='3' fill='red' opacity='0.8'>
+    <title>EnergÃ­a: 623.53 GeV | L: 308.68 B: -20.02</title>
+  </circle>
+  <text x='695.955555555556' y='240.04' fill='yellow' font-family='Arial' font-size='10'>623.53 GeV</text>
+  <circle cx='69.8' cy='292.02' r='3' fill='red' opacity='0.8'>
+    <title>EnergÃ­a: 535.2 GeV | L: 31.41 B: -46.01</title>
+  </circle>
+  <text x='79.8' y='292.02' fill='yellow' font-family='Arial' font-size='10'>535.2 GeV</text>
+</svg>

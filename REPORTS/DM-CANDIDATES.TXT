@@ -1,0 +1,9 @@
+REPORTE DE CANDIDATOS A MATERIA OSCURA - VIA PROYECT
+====================================================
+ENERGY(GeV)         GAL-L          GAL-B          STATUS
+----------------------------------------------------
+    972.00         343.59            19.90          DM-CANDIDATE
+    749.24         264.35            -5.39          DM-CANDIDATE
+    638.25          90.47             7.32          DM-CANDIDATE
+    623.53         308.68           -20.02          DM-CANDIDATE
+    535.20          31.41           -46.01          DM-CANDIDATE
