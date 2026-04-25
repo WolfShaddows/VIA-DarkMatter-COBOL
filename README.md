@@ -58,5 +58,52 @@ cobc -x -free -conf="$env:COB_CONFIG_DIR\default.conf" -I "./COPY" SRC/PRE-PROC.
 cobc -x -free -conf="$env:COB_CONFIG_DIR\default.conf" -I "./COPY" SRC/CAT-PROC.CBL -o CAT-PROC.exe
 cobc -x -free -conf="$env:COB_CONFIG_DIR\default.conf" -I "./COPY" SRC/SEARCH-MATCH.CBL -o SEARCH-MATCH.exe
 cobc -x -free -conf="$env:COB_CONFIG_DIR\default.conf" -I "./COPY" SRC/GEN-REPORT.CBL -o GEN-REPORT.exe
+```
 
-*Desarrollado en 2026 por Wolfshadows-dev para el análisis de física de partículas e integración en el ecosistema Open Mainframe.*
+# 7. Auditoría Cognitiva y Conclusiones de IA (IBM Granite)
+
+En esta fase se integró **IBM Granite-Code-8b** para realizar una auditoría de *segunda opinión* sobre los candidatos detectados por el motor determinista en COBOL.  
+El objetivo fue evaluar la viabilidad de los eventos como firmas de **Materia Oscura** frente a ruidos astrofísicos conocidos.
+
+---
+
+## 7.1. Veredicto del Modelo
+El análisis de IA arrojó resultados mixtos que subrayan la importancia del juicio humano en la investigación científica:
+
+- **Detección Crítica:** La IA identificó correctamente al **Evento de 972.00 GeV** como anomalía de alta prioridad, validando la necesidad de la precisión matemática de COBOL frente a las dificultades lógicas de la IA con magnitudes.  
+- **Evaluación de Probabilidad:** El candidato de **749.24 GeV** recibió un nivel de confianza del **90%** por su proximidad al centro galáctico, sugiriendo una zona de alto interés.  
+- **Alucinaciones Técnicas:** Se observaron interpretaciones creativas (ej. *“Láser de Hawking”*), reforzando nuestra postura de que la IA actúa como **generador de hipótesis** y no como juez final.  
+
+---
+
+## 7.2. Implementación y Ejecución Local
+Para mantener la **Soberanía Tecnológica**, se recomienda el uso de **IBM Granite** ejecutado localmente mediante **Ollama**, garantizando que los datos de investigación no abandonen el entorno del mainframe/estación de trabajo.
+
+### Requisito de Modelo
+Instalar específicamente la versión utilizada en este estudio por su equilibrio entre razonamiento lógico y eficiencia:
+
+```powershell
+ollama pull granite-code:8b
+```
+
+## Orden de Ejecución de la Auditoría
+
+Una vez generado el reporte por el motor COBOL, ejecutar el *puente cognitivo* mediante PowerShell:
+
+```powershell
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+.\JCL\AI-AUDIT.ps1
+```
+
+## Agradecimientos
+
+- A **IBM Z** y la comunidad **IBM Z Advocates** por proveer el ecosistema de innovación para el *Open Mainframe Project*.  
+- A la iniciativa de **Sovereign Tech** por impulsar el desarrollo de herramientas locales y privadas.
+- A **Fermi-LAT** (NASA/DOE) por el acceso público a los datos de la misión espacial, permitiendo la investigación independiente de alta energía.  
+ 
+---
+
+
+© 2026 **Wolfshadows-dev**   
+
+Este software se distribuye *“tal cual”*, diseñado para la investigación independiente en astrofísica y la promoción de lenguajes de alto rendimiento en entornos modernos de IA.
